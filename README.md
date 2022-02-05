@@ -3,7 +3,7 @@
 # CitiBike NYC Analysis
 
 ## Project Overview
-An analysis of CitiBike usage in New York in the month of August was completed. The goal was to find trends that may translate to other cities where a CitiBike franchise may open. The results of this analysis points out details of riding habits that may prove useful when making decisions about how to start and run the business.
+An analysis of CitiBike usage in New York in the month of August was completed. The goal was to find trends that could translate to other cities where a CitiBike franchise may open. The results of this analysis points out details of riding habits that shuold prove useful when making decisions about how to start and run the business.
 
 ###A Tableau Story of the significant data points can be found here [Link to Story](https://public.tableau.com/app/profile/aaron.hall4277/viz/NYC_Citibike_Challenge_16439586683850/NYCCitiBikeBreakdown)
 
