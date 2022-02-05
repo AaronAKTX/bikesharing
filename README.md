@@ -1,19 +1,18 @@
-# Citibike
+# Citibike ---***** [link to tableau story](https://public.tableau.com/app/profile/aaron.hall4277/viz/NYC_Citibike_Challenge_16439586683850/NYCCitiBikeBreakdown) *********
 
 # CitiBike NYC Analysis
 
 ## Project Overview
 An analysis of CitiBike usage in New York in the month of August was completed. The goal was to find trends that could translate to other cities where a CitiBike franchise may open. The results of this analysis points out details of riding habits that shuold prove useful when making decisions about how to start and run the business.
 
-###A Tableau Story of the significant data points can be found here [Link to Story](https://public.tableau.com/app/profile/aaron.hall4277/viz/NYC_Citibike_Challenge_16439586683850/NYCCitiBikeBreakdown)
+### A Tableau Story of the significant data points can be found here [Link to Story](https://public.tableau.com/app/profile/aaron.hall4277/viz/NYC_Citibike_Challenge_16439586683850/NYCCitiBikeBreakdown)
 
-- ### District Summary
-      If we look at the District Summary before and after the removal of the ninth-grade scores from Thomas Highschool, we can see that the average scores and the percentage of students passing the subjects decreased slightly, with the exception of Average Reading Score which stayed the same to the tenth of a percent. Below are images of the           District Summary before and after the recalculation.
-      #### District Summary Before Recalculation
-      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/Old_District_Summary.PNG">
+- ### Results of Analysis:
+
+
 
       #### District Summary After Recalculation
-      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/New_District_Summary_DF.PNG">
+      <img src = "https://github.com/AaronAKTX/bikesharing/blob/main/Resources/bike_trip_breakdown.PNG">
      
   - ### School Summary
       The school summary shows a small change in the numbers for Thomas High School after the ninth-grade scores were removed. The results can be seen in the before and after images below. Note that all other schools are the same in both images, and Thomas High School's data is just slightly different after the recalculation.
