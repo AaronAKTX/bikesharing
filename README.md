@@ -7,37 +7,37 @@ An analysis of CitiBike usage in New York in the month of August was completed. 
 
 ### A Tableau Story of the significant data points can be found here [Link to Story](https://public.tableau.com/app/profile/aaron.hall4277/viz/NYC_Citibike_Challenge_16439586683850/NYCCitiBikeBreakdown)
 
-- ### Results of Analysis:
+### Results of Analysis:
+- Time per ride:
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/bike_trip_breakdown.PNG">
+
+This shows that vast majority of the rides taken are than one hour.  People are usually just going for a quick ride to get from point A to point B.
 
 
+- Gender Checkout Times
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/gender_checkout_times.PNG">
 
-      #### District Summary After Recalculation
-      <img src = "https://github.com/AaronAKTX/bikesharing/blob/main/Resources/bike_trip_breakdown.PNG">
-     
-  - ### School Summary
-      The school summary shows a small change in the numbers for Thomas High School after the ninth-grade scores were removed. The results can be seen in the before and after images below. Note that all other schools are the same in both images, and Thomas High School's data is just slightly different after the recalculation.
-      #### School Summary Before Recalculation
-      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/Origina_Per_School.PNG">
+The Majority of Citibike riders are male. The average trip duration is consistent between males and females.
 
-      #### School Summary After Recalculation
-      <img src = "https://github.com/AaronAKTX/School_District_Analysis/blob/main/Resources/New_Per_School_With_Recalculation.PNG">
-     
-  - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-      Replacing the ninth-grade scores did not affect Thomas High School's performance relative to other schools to any notable degree. Of course, calculating the average scores for math and reading without adjusting the total students in the calculation had a big effect. It brought Thomas down relative to other schools. But, once the total number of students was updated to not include the invalid scoring students, the numbers righted themselves and Thomas' standing among other schools remained the same.
+- When are people riding?
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/Times_people_ride.PNG">
 
-  - ### How does replacing the ninth-grade scores affect the following:
-    - Math and reading scores by grade
-      Replacing the ninth-grade scores only affected how Thomas compared with other schools' ninth-grade scores. These scores no longer exist for Thomas so they could not be compared with other school scores. The scores for all other schools and the scores for Thomas High School 10th, 11th, and 12th grade did not change. Ninth-grade scores for other schools that were originally below Thomas, would have moved up one ranking position.
-   
-    - Scores by school spending
-      The scores by school spending will still reflect the same slight drop in scores for Thomas High School but their position among schools that spend $630-$644 per student remains the same as before. The amount spent per student doesn't change by removing the ninth-grade scores as the size and the budget did not change.
-     
-    - Scores by school size
-      The scores by school size will still reflect the same slight drop in scores for Thomas High School but their position among schools that are medium-sized remained the same. The size of the school doesn't change by removing the ninth-grade scores.
-     
-    - Scores by school type
-      Thomas High School is a charter school. The average scores of charter schools may have dropped by the smallest of margins but the scores of charter schools still far outperform the district schools.
+People tend to ride most in the morning and in the evening.
 
- 
-## District Analysis Summary
-After removing the ninth-grade students from Thomas High School, the analysis showed some changes. First, the total number of students being used to calculate the average scores was decreased. It seems the invalid scores were generally passing scores as the average math scores and the percentage of students passing math and reading all decreased after the data was recalculated. The overall percentage of students passing both math and reading also dropped. Thomas High School's summary showed a drop in average reading, and math scores as well as a drop in the percentage of students passing reading, math, and both reading and math.
+- What days are people riding?
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/Day_and_time_people_ride.PNG">
+
+The busiest day of the week is Thursday.
+
+- Is there a gender difference between when people ride?
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/Day_time_by_Gender.PNG">
+
+Male and female riders have the same day/time riding habits.
+
+- What is the most common day to ride a Citibike?
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/most_common_day.PNG">
+
+More evidence that Thursday is the busiest day.
+
+### Citibike Summary
+In general we learned that there really isn't much of a gender discrepancy around days and time day people like to ride CitiBikes. The majority of the riders are male and the most common trip is 20 minutes or less. To further investigate we could which areas are the most common starting places of bikes rides. We could also see if those popular starting spots were consistent with regard to when people are riding from those spots. This would help ensure we had enough bikes in the right locations at the right times.
