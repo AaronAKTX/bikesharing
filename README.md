@@ -30,7 +30,7 @@ People tend to ride most in the morning and in the evening.
 The busiest day of the week is Thursday.
 
 - Is there a gender difference between when people ride?
-<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/Day_time_by_Gender.PNG">
+<img src = "https://github.com/AaronAKTX/bikesharing/blob/main/resources/Day_time_by_gender.PNG">
 
 Male and female riders have the same day/time riding habits.
 
